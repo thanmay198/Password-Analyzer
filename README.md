@@ -1,2 +1,2 @@
 # Password-Analyzer
-i am chud
+A Password Strength Analyzer.
