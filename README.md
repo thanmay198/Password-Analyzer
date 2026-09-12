@@ -1,6 +1,6 @@
 Password-Strength-Analyzer
 A simple tool that tells you how strong your password actually is
-Live demo:https: //thanmay198.github.io/Password-Analyzer/
+Live demo: https://thanmay198.github.io/Password-Analyzer/
 This is a small, single-page tool for checking password strength. Instead of
 just ticking boxes like "has a number" or "has a symbol," it measures actual
 randomness (entropy) and turns that into a score you can read at a glance.
